@@ -1,40 +1,40 @@
-Hospital Power BI Dashboard
+# Hospital Power BI Dashboard
 
-Project Overview :
-This dashboard provides a comprehensive data visualization solution for hospital management teams to track and analyze critical metrics such as patient visits, equipment availability, revenue trends, appointment wait times, and service feedback. It enables data-driven decision-making through interactive and real-time reporting.
+## Project Overview
+This project presents a comprehensive data visualization dashboard for hospital management. It enables tracking and analysis of critical metrics such as patient visits, equipment availability, revenue trends, and more.
 
-Objectives :
-Interactive Data Visualization: Create intuitive visuals for tracking hospital performance
-Data Transformation: Clean and standardize data using Power Query Editor
-Data Modeling: Design a relational model with fact and dimension tables
-KPI Tracking: Monitor key metrics like occupancy rate, revenue by age group, and prescription feedback
-Enhanced User Experience: Incorporate filters, slicers, drill-downs, and custom visuals for detailed analysis
+## Objectives
+- **Interactive Data Visualization:** Intuitive visuals for monitoring hospital performance.
+- **Data Transformation:** Clean and standardize data using Power Query Editor.
+- **Data Modeling:** Establish a relational model with fact and dimension tables.
+- **KPI Tracking:** Monitor key metrics like occupancy rate, revenue by age group, and prescription feedback.
+- **Enhanced User Experience:** Utilize filters, slicers, drill-downs, and custom visuals for in-depth analysis.
 
-Tech Stack :
-Power BI (Data modeling, visualization, DAX measures)
-MS Excel (Data source)
-Power Query Editor (Data cleaning and transformation)
-Custom Visuals (Rotating cards, scrollers, buttons)
+## Tech Stack
+- **Power BI:** Data modeling, visualization, DAX measures.
+- **MS Excel:** Primary data source.
+- **Power Query Editor:** Data cleaning and transformation.
+- **Custom Visuals:** Rotating cards, scrollers, buttons.
 
-Features :
-Interactive dashboards: bar charts, line charts, maps, KPI cards, and tables
-Drill-down and drill-through: deep dive into patient-level and department-specific data
-Dynamic filtering: use slicers and filters for segmented views
-Navigation elements: seamless multi-page report navigation
-Custom visuals: enhanced user experience through advanced visuals
+## Features
+- Interactive dashboards: Bar charts, line charts, maps, KPI cards, and tables.
+- Drill-down and drill-through: Analyze patient-level and department-specific data.
+- Dynamic filtering: Segment data using slicers and filters.
+- Navigation elements: Seamless multi-page report navigation.
+- Custom visuals: Advanced visuals for an enhanced user experience.
 
-Benefits :
-Centralized monitoring: unified view of hospital operations
-Operational insights: informs resource allocation and service improvements
-Data-driven decisions: enables leadership to take action based on real-time metrics
+## Benefits
+- **Centralized Monitoring:** Unified view of hospital operations.
+- **Operational Insights:** Informs resource allocation and service improvements.
+- **Data-Driven Decisions:** Enables leadership to act on real-time metrics.
 
-Data Model Includes :
-Patient visits
-Department and staff details
-Bed and equipment usage
-Revenue by demographics
-Appointment wait times
-Prescription and service feedback
+## Data Model Includes
+- Patient visits
+- Department and staff details
+- Bed and equipment usage
+- Revenue by demographics
+- Appointment wait times
+- Prescription and service feedback
 
-Outcome :
-A fully interactive and scalable hospital analytics solution that empowers medical institutions to monitor operations, improve patient experience, and drive strategic decisions.
+## Outcome
+A fully interactive and scalable hospital analytics solution that empowers medical institutions to monitor operations, improve patient experiences, and drive strategic decisions.
